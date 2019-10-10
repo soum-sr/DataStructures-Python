@@ -1,2 +1,2 @@
 # DataStructures-Python
-Different Data Structures in Python from scratch
+Different Data Structures like Stack, Queue, LinkedList, DoublyLinkedList, Circular LinkedList, Binary Tree in Python from scratch
